@@ -35,6 +35,10 @@ ul > dd{
   margin-bottom: 10px;
 }
 
+ul#serv{
+  text-align: left;
+}
+
 /* Header **/
 header picture >img{
     display: inline;
