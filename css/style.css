@@ -34,10 +34,6 @@ ul#cam > li{
 ul > dd{
   margin-bottom: 10px;
 }
-ul#serv {
-  float: left;
-  margin-top: 100px;
-}
 
 /* Header **/
 header picture >img{
@@ -216,7 +212,7 @@ aside > ul{
   color: white;
   list-style-type: '\2714\00A0\00A0';
   list-style-position: inside;
-  columns: 2;
+  columns: 1;
 }
 
 footer{
