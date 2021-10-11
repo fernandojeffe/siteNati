@@ -163,7 +163,17 @@ header a:hover{
   width:45%;
   padding:10px;
 }
+#boxes .box1{
+  float:left;
+  text-align: center;
+  width:45%;
+  padding:10px;
+}  
 
+#boxes .box1 img{
+  width:90px;
+  border-radius: 50%;
+}
 #boxes .box img{
   width:90px;
 }
