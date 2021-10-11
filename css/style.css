@@ -34,6 +34,10 @@ ul#cam > li{
 ul > dd{
   margin-bottom: 10px;
 }
+ul#serv {
+  float: left;
+  margin-top: 100px;
+}
 
 /* Header **/
 header picture >img{
